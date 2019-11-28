@@ -1,0 +1,16 @@
+opt_in_rules:
+  - empty_count
+  - function_body_length
+disabled_rules:
+  - trailing_whitespace
+included:
+  - OpenWeatherApp
+excluded:
+  - Pods
+force_cast: warning
+empty_count: warning
+line_length:
+  - 150 # warning
+cyclomatic_complexity:
+  - 15 # warning
+  - 30 # error

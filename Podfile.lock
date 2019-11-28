@@ -1,0 +1,35 @@
+PODS:
+  - Dip (7.0.1)
+  - Keys (1.0.1)
+  - Nimble (8.0.4)
+  - Quick (2.2.0)
+  - SwiftLint (0.36.0)
+
+DEPENDENCIES:
+  - Dip (= 7.0.1)
+  - Keys (from `Pods/CocoaPodsKeys`)
+  - Nimble (= 8.0.4)
+  - Quick (= 2.2.0)
+  - SwiftLint (= 0.36.0)
+
+SPEC REPOS:
+  https://cdn.cocoapods.org/:
+    - Dip
+    - Nimble
+    - Quick
+    - SwiftLint
+
+EXTERNAL SOURCES:
+  Keys:
+    :path: Pods/CocoaPodsKeys
+
+SPEC CHECKSUMS:
+  Dip: 79509d5dc4f648e10e922ed79c608a7761c52b13
+  Keys: a576f4c9c1c641ca913a959a9c62ed3f215a8de9
+  Nimble: 18d5360282923225d62b09d781f63abc1a0111fc
+  Quick: 7fb19e13be07b5dfb3b90d4f9824c855a11af40e
+  SwiftLint: fc9859e4e1752340664851f667bb1898b9c90114
+
+PODFILE CHECKSUM: a34b2b105d3c43cb26d16c9dd22e74c3df01b731
+
+COCOAPODS: 1.8.4
